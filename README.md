@@ -73,7 +73,8 @@ namespace mayeight
 ~~~
  
  ##Output:
- ![](12.png)
+![image](https://github.com/Sarvesh993/Operator-Overloading/assets/94881923/ac4d333a-c532-47af-afc8-0d468897bd7b)
+
  
  ##Result:
 Thus a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading is successfully executed.
